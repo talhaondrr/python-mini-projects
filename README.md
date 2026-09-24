@@ -55,7 +55,7 @@ python-mini-projects/
 │
 ├── calculator.py
 ├── tip_calculator.py
-├── bmi_calculator.py
+├── BMI_Calculator.py
 ├── dice_roller.py
 ├── number_guessing.py
 ├── rock_paper_scissors.py
