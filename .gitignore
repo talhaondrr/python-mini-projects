@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# İndirilen medya
+*.mp4
+*.webm
+*.mkv
+*.mp3
+
+# Ortam / gizli bilgiler
+.env
